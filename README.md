@@ -43,5 +43,5 @@ Fast Bowlers: <br>
 
 
 **Modeling & Insights:**<br>
-🔹DAX (Data Analysis Expressions) in Power BI for KPI calculations.<br>
+🔹DAX (Data Analysis Expressions) in Power BI for Key Performance Indicators calculations.<br>
 🔹Decision-making insights based on player statistics and match outcomes.<br>
